@@ -134,10 +134,10 @@ function level14Solution() {
   }
 }
 
-let userIn = +prompt("Enter a number between 0 and 100.");
+// let userIn = +prompt("Enter a number between 0 and 100.");
 
-if (userIn >= 0 && user <= 100) {
-  alert("Thanks!");
-} else {
-  alert("Incorrect Value.");
-}
+// if (userIn >= 0 && user <= 100) {
+//   alert("Thanks!");
+// } else {
+ //  alert("Incorrect Value.");
+// }
